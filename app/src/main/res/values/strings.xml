@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ExpandableListView</string>
+    <string-array name="header_title">
+        <item>Desktop Languages</item>
+        <item>Mobile Languages</item>
+        <item>Web Languages</item>
+    </string-array>
+    <string-array name="child1_title">
+        <item>C++</item>
+        <item>Python</item>
+        <item>Java</item>
+        <item>C#</item>
+    </string-array>
+    <string-array name="child2_title">
+        <item>IOS</item>
+        <item>Android</item>
+        <item>Windows Phone</item>
+    </string-array>
+    <string-array name="child3_title">
+        <item>HTML</item>
+        <item>CSS</item>
+        <item>JavaScript</item>
+        <item>PHP</item>
+        <item>JavaEE</item>
+        <item>Asp.net</item>
+    </string-array>
+</resources>
